@@ -5,3 +5,4 @@
 * [artista](https://neusferrandiz.github.io/artista/)
 * [targetes](https://neusferrandiz.github.io/targetes/)
 * [moma](https://neusferrandiz.github.io/moma/)
+* [minimalissimo](https://neusferrandiz.github.io/minimalissimo/)
