@@ -4,5 +4,6 @@
 * [broom](https://neusferrandiz.github.io/broom/)
 * [artista](https://neusferrandiz.github.io/artista/)
 * [targetes](https://neusferrandiz.github.io/targetes/)
-* [landingpage](https://neusferrandiz.github.io/landingpage/)
 * [moma](https://neusferrandiz.github.io/moma/)
+* [landingpage](https://neusferrandiz.github.io/landingpage/)
+* [minimalissimo](https://neusferrandiz.github.io/minimalissimo/)
